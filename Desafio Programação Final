@@ -12,7 +12,7 @@ def carregar_dados():
         registro = {
             'nome' : valores[0],
             'numero': valores [1],
-            'despeso' : int(valores [21]),
+            'despeso' : int(valores [2]),
             'receita' : int(valores[3])
     }
     registros.append (registro)
